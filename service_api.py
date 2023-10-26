@@ -25,7 +25,7 @@ templete = {
         "tags": [
           "chat_completion"
         ],
-        "summary": "Chat Output",
+        "summary": "Chat Input",
         "description": "",
         "consumes": [
           "application/json"
